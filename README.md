@@ -1,4 +1,4 @@
-### Hi I'm Mohammed Amine Lahmami 👋
+### Hi, I'm Mohammed Amine Lahmami / Welcome to my profile / 👋
 -------------------------
 
 🔭 I’m currently working on PHP and JavaScript (React)
