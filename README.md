@@ -3,7 +3,7 @@
 
 🔭 I’m currently working on PHP and JavaScript (React)
 
-🌱 I’m currently learning everything I can find
+🌱 I’m currently learning everything
 
 📫 How to reach me: Twitter, LinkedIn
 
