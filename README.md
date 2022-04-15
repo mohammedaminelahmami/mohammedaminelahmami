@@ -1,7 +1,7 @@
 ### Hi, I'm Amine / Welcome to my profile / 👋
 -------------------------
 
-🔭 I’m currently learning Laravel and React
+🔭 I’m currently learning PHP and React
 
 
 📫 How to reach me: Twitter, LinkedIn
